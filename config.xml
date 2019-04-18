@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.Parizat.shortstorygenerate" version="1.0.0"   
+        xmlns="<a href="http://www.w3.org/ns/widgets">http://www.w3.org/ns/widgets</a>"
+        xmlns:gap="<a href="http://phonegap.com/ns/1.0">http://phonegap.com/ns/1.0</a>">
+    <name>GENERATE SHORT STORY</name>
+    <description>
+        Generates short stories seeds randomly
+    </description>
+    <author email="parizat1000@gmail.com" 
+        My Own Self Company
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="14" />
+    <preference name="phonegap-version" value="cli-6.3.0" /> 
+    <preference name="orientation" value="default" /> 
+</widget>
